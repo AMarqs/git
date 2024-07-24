@@ -1,7 +1,29 @@
-<picture> 
-	<source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fgit-for-windows&psig=AOvVaw2ETNzYUh99Q9NKUbZkrFvL&ust=1721907956976000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCMDi9JPNv4cDFQAAAAAdAAAAABAE"> 
-	<source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE"> 
-	<img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
+<div align="center">
+    <img src="https://avatars.githubusercontent.com/u/4571183?s=200&v=4" alt="HAL 9000" width="200px">
+</div>
 
-# git
+
+# OBJETIVO
+
+Este repositorio está destinado a subir teoría y práctica de fundamentos de Git que vaya aprendiendo y realizando.
+
+Además, incluye aportaciones sobre GitHub.
+
+---
+
+## PROYECTOS
+
+### gt_HAL9000
+
+Es una práctica para aprender el funcionamiento de Git en local.
+
+Incluye: 
+- Configuración de repositorios
+- Ramificación
+- Árbol de Trabajo
+- Commits
+- Etiquetas
+
+Este práctica ha sido diseñada por [@15Galan](https://github.com/15Galan)
+
+Se puede encontrar el enunciado y los recursos necesarios en: [gt_Hal9000](https://github.com/15Galan/gt_HAL9000/tree/master)
