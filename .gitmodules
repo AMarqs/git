@@ -1,0 +1,3 @@
+[submodule "gt_datalib"]
+	path = gt_datalib
+	url = https://github.com/AMarqs/gt_datalib
